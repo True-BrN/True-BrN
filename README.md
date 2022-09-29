@@ -1,0 +1,4 @@
+-  BrN (Bruno)
+- em busca de me tornar um programador
+- Estou estudando Python, logo passarei a estudar outras linguagens como JS e C++.
+- Instagram @b_teixeira2
